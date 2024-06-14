@@ -1,19 +1,18 @@
-# Calculadora de Partidas Ranqueadas
+# Ranked Matches Calculator
 
-## 
-Descrição do Desafio
-Este projeto consiste em uma calculadora de partidas ranqueadas, onde você utilizará conceitos fundamentais de programação, como variáveis, operadores, laços de repetição, estruturas de decisões e funções.
+## Challenge Description
+This project consists of a ranked matches calculator, where you will use fundamental programming concepts such as variables, operators, loops, decision structures, and functions.
 
-## Objetivo
-Crie uma função que receba como parâmetro a quantidade de vitórias e derrotas de um jogador. Em seguida, a função deve calcular o saldo de partidas ranqueadas usando a fórmula (vitórias - derrotas) e determinar o nível do jogador com base nas seguintes condições:
+## Objective
+Create a function that receives as parameters the number of wins and losses of a player. Then, the function should calculate the balance of ranked matches using the formula (wins - losses) and determine the player's level based on the following conditions:
 
-- Se vitórias for menor do que 10 = Ferro
-- Se vitórias for entre 11 e 20 = Bronze
-- Se vitórias for entre 21 e 50 = Prata
-- Se vitórias for entre 51 e 80 = Ouro
-- Se vitórias for entre 81 e 90 = Diamante
-- Se vitórias for entre 91 e 100 = Lendário
-- Se vitórias for maior ou igual a 101 = Imortal
+- If wins are less than 10 = Iron
+- If wins are between 11 and 20 = Bronze
+- If wins are between 21 and 50 = Silver
+- If wins are between 51 and 80 = Gold
+- If wins are between 81 and 90 = Diamond
+- If wins are between 91 and 100 = Legendary
+- If wins are greater than or equal to 101 = Immortal
 
 ## Output
 
