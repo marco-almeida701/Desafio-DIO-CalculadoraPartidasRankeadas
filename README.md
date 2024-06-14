@@ -15,11 +15,11 @@ Crie uma função que receba como parâmetro a quantidade de vitórias e derrota
 - Se vitórias for entre 91 e 100 = Lendário
 - Se vitórias for maior ou igual a 101 = Imortal
 
-## Saída
+## Output
 
-Ao final, a função deve exibir a mensagem:
+In the end, the function should display the message:
 
-**"O Herói tem um saldo de {saldoVitorias} e está no nível de {nivel}"**
+**"The Hero has a balance of {balanceWins} and is at the {level} level"**
 
-## Conclusão
-Este desafio proporcionou uma oportunidade significativa para aplicar e aprimorar habilidades essenciais de programação, incluindo o uso de variáveis, operadores, laços de repetição, estruturas de decisões e funções. Ao criar uma calculadora de partidas ranqueadas, você explorou conceitos práticos de lógica de programação e desenvolveu uma função útil para determinar o nível de um jogador com base em suas vitórias e derrotas.
+## Conclusion
+This challenge provided a significant opportunity to apply and improve essential programming skills, including the use of variables, operators, loops, decision structures, and functions. By creating a ranked matches calculator, you explored practical programming logic concepts and developed a useful function to determine a player's level based on their wins and losses.
